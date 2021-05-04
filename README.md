@@ -24,7 +24,21 @@ Na UFC, cada período letivo corresponde a 16 semanas, assim cada crédito corre
 * **Introdução à Ciência da Computação e Sistemas de Informação** (4 créditos)
 * **Teoria Geral da Administração** (4 créditos) 
 
+A estrutura curricular do curso de SI é a seguinte:
+
 ![Estrutura Curricular](./estrutura_curricular.png)
+
+
+Observe que tem algumas setas saindo de uma disciplina origem para um disciplina destino. Isso significa que a disciplina origem é um pré-requisito para a disciplina destino. Por exemplo, Fundamentos de Programação é um pré-requisito para Estrutura de Dados e Programação Orientada a Objetos.
+
+## Bolsas
+
+* Bolsa do Iniciação Acadêmica (BIA)
+* Bolsa do Programa de Iniciação à Docência
+* Bolsa do Programa de Acolhimento e Incentivo a Permanência
+* Bolsa do Programa de Extensão
+* Bolsa do Programa de Educação Tutorial
+
 
 
 
