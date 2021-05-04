@@ -24,6 +24,7 @@ Na UFC, cada período letivo corresponde a 16 semanas, assim cada crédito corre
 * **Introdução à Ciência da Computação e Sistemas de Informação** (4 créditos)
 * **Teoria Geral da Administração** (4 créditos) 
 
+![Estrutura Curricular](./estrutura_curricular.png)
 
 
 
