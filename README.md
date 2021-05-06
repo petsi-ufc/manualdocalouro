@@ -69,8 +69,11 @@ O Campus de Quixadá iniciou suas atividades eme 2007 com o curso de Bacharelado
 Na UFC, cada período letivo corresponde a 16 semanas, assim cada crédito corresponde a 16 horas-aulas (1 crédito = 16h). Por exemplo, se a disciplina vale 4 créditos então você vai ter 4 horas-aulas por semana dessa disciplina e a carga horária total será de 64 horas-aulas. O curso de Sistemas de Informação tem uma carga horária mínima de 3136 (não se preocupe passa rápido). No primeiro semestre, as disciplinas são:
 
 * **Fundamentos de Programação** (6 créditos)
+* **Pré-cálculo** (2 créditos)
 * **Matemática Básica** (4 créditos)
-* **Introdução à Ciência da Computação e Sistemas de Informação** (4 créditos)
+* **Introdução a Sistemas de Informação** (4 créditos)
+* **Introdução a Administração** (4 créditos)
+
 * **Teoria Geral da Administração** (4 créditos) 
 
 A estrutura curricular do curso de SI é a seguinte:
