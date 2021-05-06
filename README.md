@@ -9,7 +9,7 @@
 ![Açude Cedro](./quixada.jpg)
 
 
-Quixadá é uma cidade localizada no sertão Central do Estado do Ceará. Conhecida como "Terra da Galinha Choca", "Terra dos Monólitos" ou "Cidade Rainha do Sertão". O principal ponto turístico da cidade é o Açude Cedro e a Pedra da Galinha Choca.
+Quixadá é uma cidade localizada no sertão Central do Estado do Ceará. Conhecida como: "Terra da Galinha Choca", "Terra dos Monólitos" ou "Cidade Rainha do Sertão". Os principais pontos turísticos da cidade são o Açude Cedro e a Pedra da Galinha Choca.
 
 
 
@@ -39,13 +39,13 @@ A cidade de Quixadá já apareceu até no desenho Dragon Ball Z.
 
 ## Cidade Universitária
 
-A cidade possui 6 instituições com ensino superior e técnico: 
-* Faculdade de Educação, Ciências e Letras do Sertão Central (Unidade acadêmica da UECE).
-* Centro Universitário Católica de Quixadá.
-* Universidade Federal do Ceará.
-* Universidade Estadual Vale do Acaraú.
+A cidade possui seis (6) instituições de ensino superior e técnico: 
+* Faculdade de Educação, Ciências e Letras do Sertão Central - FECLESC (Unidade acadêmica da UECE).
+* Centro Universitário Católica de Quixadá (Unicatólica).
+* Universidade Federal do Ceará (UFC).
 * Instituto Educacional Superior e Tecnológico Faculdade Cisne.
-* Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
+* Faculdade Dom Adélio Tomasin (FADAT)
+* Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 
 
 
@@ -68,7 +68,7 @@ O Campus de Quixadá iniciou suas atividades eme 2007 com o curso de Bacharelado
 
 Na UFC, cada período letivo corresponde a 16 semanas, assim cada crédito corresponde a 16 horas-aulas (1 crédito = 16h). Por exemplo, se a disciplina vale 4 créditos então você vai ter 4 horas-aulas por semana dessa disciplina e a carga horária total será de 64 horas-aulas. O curso de Sistemas de Informação tem uma carga horária mínima de 3136 (não se preocupe passa rápido). No primeiro semestre, as disciplinas são:
 
-* **Fundamentos de Programação** (6 créditos)
+* **Fundamentos de Programação (FUP)** (6 créditos)
 * **Pré-cálculo** (2 créditos)
 * **Matemática Básica** (4 créditos)
 * **Introdução a Sistemas de Informação** (4 créditos)
@@ -82,9 +82,13 @@ A estrutura curricular do curso de SI é a seguinte:
 
 Observe que tem algumas setas saindo de uma disciplina origem para um disciplina destino. Isso significa que a disciplina origem é um pré-requisito para a disciplina destino. Por exemplo, Fundamentos de Programação é um pré-requisito para Estrutura de Dados e Programação Orientada a Objetos.
 
+## IRA
+
+A sigla IRA é uma sigla que será muito ouvida por vocês no decorrer do seu período como estudante da UFC. Índice de Rendimento Acadêmico ou a sua sigla IRA é um indicador de desempenho calculado no fim de cada período letivo (semestre) que leva em consideração a nota final de cada disciplina, a carga horária delas, o período em que foi cursada com relação à previsão da integralização curricular e a ocorrência ou não de interrupções (trancamentos parciais). Há dois tipos de IRA, um individual e um geral, o IRA individual como o nome sugere é relativo a um único estudante, calculado de acordo com o desempenho dele enquanto o IRA geral refere-se ao índice calculado dentro do curso, levando em consideração todos os seus alunos
+
 ## Bolsas
 
-A UFC desenvolve várias políticas para incentivar, acompanhar e promover o desenvolvimento do seus estudantes durante toda a sua trajetória acadêmica utilizando programas de bolsas e auxílios.
+A UFC desenvolve várias políticas para incentivar, acompanhar e promover o desenvolvimento do seus estudantes durante toda a sua trajetória acadêmica utilizando programas de bolsas e auxílios. 
 
 * **Auxílio Moradia**
 O Programa Auxílio Moradia tem por objetivo viabilizar a permanência de estudantes matriculados nos Cursos de Graduação dos Campi da Universidade Federal do Ceará (UFC) em Crateús, Quixadá, Russas e Sobral em comprovada situação de vulnerabilidade econômica, assegurando-lhes auxílio institucional para complementação de despesas com moradia e alimentação durante todo o período do curso ou enquanto persistir a mesma situação.
