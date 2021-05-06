@@ -84,7 +84,7 @@ Observe que tem algumas setas saindo de uma disciplina origem para um disciplina
 
 ## IRA
 
-A sigla IRA é uma sigla que será muito ouvida por vocês no decorrer do seu período como estudante da UFC. Índice de Rendimento Acadêmico ou a sua sigla IRA é um indicador de desempenho calculado no fim de cada período letivo (semestre) que leva em consideração a nota final de cada disciplina, a carga horária delas, o período em que foi cursada com relação à previsão da integralização curricular e a ocorrência ou não de interrupções (trancamentos parciais). Há dois tipos de IRA, um individual e um geral, o IRA individual como o nome sugere é relativo a um único estudante, calculado de acordo com o desempenho dele enquanto o IRA geral refere-se ao índice calculado dentro do curso, levando em consideração todos os seus alunos
+A sigla IRA é uma que será muito ouvida por vocês no decorrer do seu período como estudante da UFC. Índice de Rendimento Acadêmico ou a sua sigla IRA é um indicador de desempenho calculado no fim de cada período letivo (semestre) que leva em consideração a nota final de cada disciplina, a carga horária delas, o período em que foi cursada com relação à previsão da integralização curricular e a ocorrência ou não de interrupções (trancamentos parciais). Há dois tipos de IRA, um individual e um geral, o IRA individual como o nome sugere é relativo a um único estudante, calculado de acordo com o desempenho dele enquanto o IRA geral refere-se ao índice calculado dentro do curso, levando em consideração todos os seus alunos
 
 ## Bolsas
 
