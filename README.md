@@ -74,7 +74,6 @@ Na UFC, cada período letivo corresponde a 16 semanas, assim cada crédito corre
 * **Introdução a Sistemas de Informação** (4 créditos)
 * **Introdução a Administração** (4 créditos)
 
-* **Teoria Geral da Administração** (4 créditos) 
 
 A estrutura curricular do curso de SI é a seguinte:
 
@@ -94,24 +93,29 @@ Fonte: https://prae.ufc.br/pt/auxilio-moradia/
 
 * **Bolsa do Iniciação Acadêmica (BIA)**
 O Programa Bolsa de Iniciação Acadêmica tem por objetivo propiciar aos estudantes de Cursos de Graduação Presenciais da Universidade Federal do Ceará (UFC) – em situação de vulnerabilidade sócio-econômica comprovada – especialmente os de semestres iniciais, condições financeiras para sua permanência e desempenho acadêmico satisfatório, mediante atuação, em caráter de iniciação acadêmica, nas diversas unidades da Instituição.
+
 Fonte: https://prae.ufc.br/pt/bolsa-de-iniciacao-academica/
 
 * **Bolsa do Programa de Iniciação à Docência**
 O Programa de Iniciação à Docência (PID) é desenvolvido em duas modalidades: monitoria remunerada e monitoria voluntária. Na primeira, o monitor recebe uma bolsa-auxílio para desempenhar as funções e, por isso, não deve participar de qualquer outra atividade remunerada, seja pública ou privada. Na segunda, o monitor desempenha as atividades de maneira voluntária, sem o recebimento do auxílio.
+
 Fonte: https://prograd.ufc.br/pt/bolsas/bolsas-do-pid-programa-de-iniciacao-a-docencia/
 
 
 * **Bolsa do Programa de Acolhimento e Incentivo a Permanência**
 A Bolsa de Apoio a Projetos da Graduação tem como finalidade promover a articulação, o acompanhamento e a avaliação de ações acadêmicas, bem como ampliar as iniciativas de atividades alternativas e inovadoras de ensino que contribuam para a redução de fatores determinantes para a reprovação e evasão dos estudantes, como parte da política de acolhimento e incentivo à permanência dos alunos nos cursos de graduação da UFC.
+
 Fonte: https://prograd.ufc.br/pt/bolsas/bolsas-de-apoio-a-projetos-de-graduacao/
 
 
 * **Bolsa do Programa de Extensão**
 O Programa de Extensão Universitária destina bolsa de extensão, como auxílio financeiro, ao(à) estudante de graduação vinculado(a) a um Programa ou a um Projeto de Extensão, orientado(a) e acompanhado(a) por um professor(a) ou técnico(a) com nível superior, vinculado ao quadro ativo permanente da UFC
+
 Fonte: https://prex.ufc.br/pt/bolsas/
 
 * **Bolsa do Programa de Educação Tutorial**
 Cada grupo do PET-UFC estrutura-se em um professor tutor, um professor cotutor, e máximo de doze estudantes bolsistas e seis voluntários. Cabe aos bolsistas zelar pela qualidade acadêmica do programa, participar e apresentar excelente rendimento em todas as atividades programadas pelo professor-tutor, além de publicar ou apresentar um trabalho científico por ano (em grupo ou individualmente) e fazer referência à sua condição de bolsista do PET nos trabalhos publicados e apresentados.
+
 Fonte: https://prograd.ufc.br/pt/bolsas/bolsas-do-pet-ufc-programa-de-educacao-tutorial-universidade-federal-do-ceara/
 
 
@@ -164,6 +168,7 @@ Para o curso de SI são necessárias 192h de atividades, que podem ser divididas
  - Palestras do WTISC – Workshop de TI do Sertão Central
  - Participação Regular em Célula de Aprendizagem Cooperativa, coordenada por bolsistas da aprendizagem cooperativa.
  - Entre outras atividades, como palestras, eventos e grupos diversos.
+
 **Mais informações: https://si.quixada.ufc.br/ac/**
 
 ## Sistemas UFC
